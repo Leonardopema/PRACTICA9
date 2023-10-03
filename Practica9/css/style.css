@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin:0;
+}
+article{
+    background-color: rgb(199,247,247);
+}
+nav{
+    background-color: rgb(56,55,55);
+}
+footer {
+    position: absolute;
+    bottom: 10;
+    width: 100%;
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+}
